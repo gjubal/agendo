@@ -1,0 +1,3 @@
+[submodule "ag_client"]
+	path = ag_client
+	url = https://github.com/gjubal/ag_client
