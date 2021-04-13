@@ -30,7 +30,7 @@ Have this application's API running (soon to be released!)
 
 `# Start the client`
 
-`$ yarn start>`
+`$ yarn start`
 
 ## Server
 
