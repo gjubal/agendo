@@ -1,6 +1,6 @@
 # Agendo
 
-![Image]()
+![Alt Text](https://media.giphy.com/media/1F3Wo0YMTPHRJ0of2i/giphy.gif)
 
 ## About
 
