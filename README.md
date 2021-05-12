@@ -21,14 +21,13 @@ Have this application's API running (soon to be released!)
 
 #### Follow the steps below
 
-`# Install the dependencies`
+#### Install the dependencies
 
 `$ yarn`
 
+*** Make sure the file 'src/services/api.ts' has the address to your API
 
-`# Be sure the file 'src/services/api.ts' have the IP to your API`
-
-`# Start the client`
+#### Start the client
 
 `$ yarn start`
 
